@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&center=true&vCenter=true&width=1500&lines=Ol%C3%A1%2C+me+chamo+Giovanny;tenho+19+anos;cursando+Engenharia+de+Software)](https://git.io/typing-svg)
 
-🐧 Familiarizado com ambiente Linux
-🐍 Desenvolvedor Python
-🔒 Estudante de Pentest 
-📱 Futuro Desenvolvedor Mobile
+🐧 Familiarizado com ambiente Linux <br>
+🐍 Desenvolvedor Python <br>
+🔒 Estudante de Pentest <br>
+📱 Futuro Desenvolvedor Mobile <br>
+
