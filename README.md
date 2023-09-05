@@ -4,5 +4,5 @@
 
 🐧 Linux <br>
 🐍 Desenvolvedor Python <br>
-🔒 Estudante de Pentest <br>
+🔒 Estudante de Cibersegurança <br>
 
