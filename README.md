@@ -5,7 +5,7 @@
 🐧 Linux <br>
 🐍 Desenvolvedor Python <br>
 🔒 Estudante de Cibersegurança <br>
-
+<br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![html5](https://img.shields.io/badge/html-05122A?logo=html5) ![css3](https://img.shields.io/badge/css-05122A?logo=css3) ![Javascript](https://img.shields.io/badge/javascript-05122A?logo=javascript) ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=Java&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![selenium](https://img.shields.io/badge/selenium-05122A?style=flat&logo=selenium) ![playwright](https://img.shields.io/badge/playwright-05122A?style=flat&logo=playwright) <br>
 ![wordpress](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress) ![elementor](https://img.shields.io/badge/elementor-05122A?style=flat&logo=elementor) ![canva](https://img.shields.io/badge/canva-05122A?style=flat&logo=canva)
