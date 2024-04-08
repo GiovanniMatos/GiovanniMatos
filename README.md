@@ -16,4 +16,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) <br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  <br>
 
-<img src="https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/6f489efc-718c-47f6-b9fe-8953ad610bf6" width="500px" height="300px">
+<img src="https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/ae3ee336-25ed-4afd-a57b-300c9cf45074" width="800px" height="200px">
