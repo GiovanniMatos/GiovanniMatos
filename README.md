@@ -18,7 +18,7 @@
 
 🐧<br>
 🐍 Full Stack Python Developer <br>
-🔒 Cybersecurity | Ethical Hacking Student <br>
+🔒 Ethical Hacking Student <br>
 <br>
 
 
