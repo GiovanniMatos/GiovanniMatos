@@ -22,7 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb)](https://skillicons.dev)<br><hr>
 
-🐧<br>
 <p>🐍 Full Stack Python Developer </p> 
 <p>🔒 Ethical Hacking Student </p> <br>
 
