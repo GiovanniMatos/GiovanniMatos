@@ -25,6 +25,9 @@
 <p>🐍 Full Stack Python Developer </p> 
 <p>🔒 Ethical Hacking Student </p> <br>
 
+Contato:<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/giovanny-matos/)
+
 
 
 
