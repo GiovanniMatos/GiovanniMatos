@@ -7,16 +7,16 @@
 <img src="https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/204ed6bd-2ccd-4395-b551-1f518a2b155b" align="right" height="290px" width="400px">
 <p><b>Back-end:<b> </p>
   
-[![My Skills](https://skillicons.dev/icons?i=python,php,nodejs,java,dart)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=python,php,nodejs,java,c,dart,bash)](https://skillicons.dev)<br>
 <p><b>Front-end:<b> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)<br>
 <p><b>Frameworks:<b> </p>
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,flutter,flask,django)](https://skillicons.dev)<br>
 <p><b>Tecnologias de Infraestrutura:</b></p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,debian)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,debian)](https://skillicons.dev)<br>
 
 <p><b>Gerenciamento de Dados:</b></p>
 
