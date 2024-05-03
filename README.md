@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel,flutter,flask,django)](https://skillicons.dev)<br>
 <p><b>Tecnologias de Infraestrutura:</b></p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,debian)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,debian,bash)](https://skillicons.dev)<br>
 
 <p><b>Gerenciamento de Dados:</b></p>
 
