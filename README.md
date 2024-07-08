@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)<br>
 <p><b>Frameworks:<b> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,flutter,flask,django,bootstrap)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=laravel,flutter,flask,django,nextjs)](https://skillicons.dev)<br>
 <p><b>Tecnologias de Infraestrutura:</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,debian,bash)](https://skillicons.dev)<br>
