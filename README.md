@@ -14,18 +14,18 @@
 <p><b>Frameworks:<b> </p>
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,flutter,flask,django,nextjs)](https://skillicons.dev)<br>
-<p><b>Tecnologias de Infraestrutura:</b></p>
+<p><b>Infrastructure Technologies:</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,debian,bash)](https://skillicons.dev)<br>
 
-<p><b>Gerenciamento de Dados:</b></p>
+<p><b>Data Management:</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb)](https://skillicons.dev)<br><hr>
 
 <p>🐍 Full Stack Python Developer </p> 
 <p>🔒 Ethical Hacking Student </p>
 
-Contato:<br>
+Contact:<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/giovanny-matos/)
 
 
