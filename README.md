@@ -7,7 +7,7 @@
 <img src="https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/204ed6bd-2ccd-4395-b551-1f518a2b155b" align="right" height="290px" width="400px">
 <p><b>Back-end:<b> </p>
   
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,java)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,java,php)](https://skillicons.dev)<br>
 <p><b>Front-end:<b> </p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)<br>
