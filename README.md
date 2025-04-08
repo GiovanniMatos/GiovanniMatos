@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel,flask,nextjs,tailwindcss)](https://skillicons.dev)<br>
 <p><b>Infrastructure Technologies:</b></p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,gcp)](https://skillicons.dev)<br>
 
 <p><b>Data Management:</b></p>
 
