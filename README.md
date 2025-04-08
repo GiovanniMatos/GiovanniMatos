@@ -14,7 +14,7 @@
 <p><b>Frameworks:<b> </p>
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,flask,nextjs,tailwindcss)](https://skillicons.dev)<br>
-<p><b>Infrastructure Technologies:</b></p>
+<p><b>DevOps:</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,gcp)](https://skillicons.dev)<br>
 
