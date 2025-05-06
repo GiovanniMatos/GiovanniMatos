@@ -20,9 +20,10 @@
 
 <p><b>Data Management:</b></p>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb)](https://skillicons.dev)<br><hr>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb)](https://skillicons.dev)<br>
+<hr>
 
-<p>🐍 Full Stack Python Developer </p> 
+<p>💻 Full Stack Developer with a focus on Security</p> 
 <p>🔒 Ethical Hacking Student </p>
 
 Contact:<br>
