@@ -25,7 +25,6 @@
 <p><b>Offensive Security & Pentesting:</b></p>
 
 <img width="50px" src="https://www.skyarch.net/blog/wp-content/uploads/2024/01/burp_suite_macos_bigsur_icon_190319.png">
-<img width="50px" src="https://static-00.iconduck.com/assets.00/nmap-icon-2048x2048-96jdbf6r.png">
 <img width="58px" src="https://images.icon-icons.com/1381/PNG/512/wireshark_94067.png">
 <img width="55px" src="https://docs.caido.io/logo.png">
 <hr>
